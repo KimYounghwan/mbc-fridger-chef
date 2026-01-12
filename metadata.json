@@ -1,0 +1,5 @@
+{
+  "name": "냉장고 파먹기 AI (Fridge Chef AI)",
+  "description": "냉장고에 남은 재료와 식사 시간대를 선택하면 AI가 최적의 레시피 3가지를 추천해주는 스마트 요리 도우미입니다.",
+  "requestFramePermissions": []
+}
